@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Portfolio | Homepage</title>
+    </head>
+    <body>
+        <header>
+            <div id="title">
+                <h1>Malatia's Portfolio</h1>
+            </div>
+            <div id="navBar">
+                <nav>
+                    <ul>
+                        <li><a href="index.html">Home</a></li>
+                        <li><a href="projects.html">Projects</a></li>
+                    </ul>
+                </nav>
+            </div>
+        </header>
+
+        <div> 
+            <img src="..." width="300">
+            <p>"Welcome!"</p>
+        </div>
+
+        <div>
+            <h1>About Me</h1>
+            <iframe width="560" height="300" src="https://www.youtube.com/embed/2MsN8gpT6jY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
+
+        <div>
+            <div>
+                <h3>PacMen Project</h3>
+                <p>Description</p>
+                <a href= "https://malatiamj.github.io/PacManFactory/"></a>  
+        </body>
+            </div>
+    
+            <div>
+                <h3>Eye Movement Project</h3>
+                <p>Description</p>
+            </div>
+    
+            <div>
+                <h3>Tracker Project</h3>
+                <p>Description</p>
+            </div>
+        </div>
+
+        <footer>
+            <div>
+                
+            </div>
+            <div>
+            </div>
+        </footer>
+    </body>
+</html>
